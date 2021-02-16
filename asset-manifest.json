@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fcc-calc/static/css/main.eb79e8b6.chunk.css",
+    "main.css": "/fcc-calc/static/css/main.fc06a366.chunk.css",
     "main.js": "/fcc-calc/static/js/main.22244cf4.chunk.js",
     "main.js.map": "/fcc-calc/static/js/main.22244cf4.chunk.js.map",
     "runtime-main.js": "/fcc-calc/static/js/runtime-main.6c84e509.js",
@@ -8,13 +8,13 @@
     "static/js/2.708b6f5f.chunk.js": "/fcc-calc/static/js/2.708b6f5f.chunk.js",
     "static/js/2.708b6f5f.chunk.js.map": "/fcc-calc/static/js/2.708b6f5f.chunk.js.map",
     "index.html": "/fcc-calc/index.html",
-    "static/css/main.eb79e8b6.chunk.css.map": "/fcc-calc/static/css/main.eb79e8b6.chunk.css.map",
+    "static/css/main.fc06a366.chunk.css.map": "/fcc-calc/static/css/main.fc06a366.chunk.css.map",
     "static/js/2.708b6f5f.chunk.js.LICENSE.txt": "/fcc-calc/static/js/2.708b6f5f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6c84e509.js",
     "static/js/2.708b6f5f.chunk.js",
-    "static/css/main.eb79e8b6.chunk.css",
+    "static/css/main.fc06a366.chunk.css",
     "static/js/main.22244cf4.chunk.js"
   ]
 }
