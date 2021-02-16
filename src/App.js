@@ -113,7 +113,7 @@ export default class App extends Component {
     };
     const { input, output, showInput } = this.state;
     return (
-      <div className = "container">
+      <div className = "calc">
         <Display output={output} input={input} showInput={showInput} />
         <Keypad {...handlers} />
       </div>
